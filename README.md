@@ -1,6 +1,5 @@
 # ExPResSO
 
-<!-- TODO: replace with a one or two sentence description of what ExPResSO does. -->
 ExPResSO is a C library available as both a static library (`libexpresso.a`) and a shared library (`libexpresso.so`).
 
 ## Requirements
@@ -101,9 +100,3 @@ You can also work directly from the `tests/` directory:
 ├── tests/          # Test programs and their own Makefile
 └── ...
 ```
-
-<!-- TODO: adjust the tree above to match the real contents of the repository. -->
-
-## License
-
-<!-- TODO: state your license, e.g. MIT, and add a LICENSE file. -->
