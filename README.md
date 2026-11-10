@@ -90,13 +90,3 @@ You can also work directly from the `tests/` directory:
 | `clean` | Removes the files produced when building the test programs                                                                                       |
 
 > `libexpresso.a` must be built first (run `make` at the repository root).
-
-## Repository layout
-
-```
-.
-├── Makefile        # Build, install and test recipes
-├── expresso.c      # Library source
-├── tests/          # Test programs and their own Makefile
-└── ...
-```
