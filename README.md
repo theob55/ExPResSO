@@ -1,6 +1,6 @@
 # ExPResSO
 
-ExPResSO is a C library available as both a static library (`libexpresso.a`) and a shared library (`libexpresso.so`).
+ExPResSO is a C library available as both a static library (`libexpresso.a`) and a shared library (`libexpresso.so`). University project of "Intern architecture of operating systems" that uses pthread to create a high-level parallel programming interface, scheduling and organizing parallel tasks to execute.  
 
 ## Requirements
 
